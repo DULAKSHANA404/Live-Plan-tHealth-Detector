@@ -10,10 +10,10 @@ A real-time plant health detection system built using **TensorFlow**, **Keras**,
 ![Instruction Overlay](demo_instruction.png)
 
 ### 📷 Capturing a Healthy Leaf
-![Healthy Leaf Capture](demo_capture.png)
+![Healthy Leaf Capture](demo_capture.jpg)
 
 ### ✅ Prediction Result
-![Healthy Prediction](demo_result.png)
+![Healthy Prediction](demo_result.jpg)
 
 ---
 
